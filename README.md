@@ -43,7 +43,7 @@ The project includes experiments and visualizations related to:
 ## Repository Structure
 
 ```text
-EE656_SOC_course-project/
+MSE-643_SOC_course-project/
 │
 ├── EE656 Codes/
 │   ├── SOC_Project.py
@@ -64,7 +64,7 @@ EE656_SOC_course-project/
 │   ├── mmc_preferred_shapes.png
 │   └── mountain_clustering_preferred_shapes.png
 │
-├── EE656_SOC_Clustering_compressed.pdf
+├── MSE-643_SOC_Clustering_compressed.pdf
 ├── SOC_Paper.pdf
 ├── SOC_Presentation.pdf
 └── README.md
@@ -95,7 +95,7 @@ Through this project, I gained practical exposure to:
 
 This project was completed as part of:
 
-**EE656 -- Artificial Intelligence, Machine Learning, Deep Learning & Its Applications**
+**MSE-643 -- AI and ML in MSE**
 Indian Institute of Technology Kanpur
 
 
