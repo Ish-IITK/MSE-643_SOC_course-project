@@ -1,5 +1,5 @@
 
-# EE656 SOC Course Project
+# MSE-643 SOC Course Project
 
 Implementation and analysis of a research-paper-based clustering project for **EE656: Artificial Intelligence, Machine Learning, Deep Learning & Its Applications** at IIT Kanpur.
 
